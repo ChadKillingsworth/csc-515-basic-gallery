@@ -1,6 +1,6 @@
 {
   "name": "csc-adv-int-basic-gallery",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic touch enabled image slider",
   "main": "index.js",
   "repository": "git@github.com:ChadKillingsworth/csc-515-basic-gallery.git",
