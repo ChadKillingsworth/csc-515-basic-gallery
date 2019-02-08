@@ -31,8 +31,13 @@ constructor(container, options) { }
  */
 next() { }
 
+/** 
+ * Advance to the previous image
+ */
+prev() { }
+
 /**
- * a simple positive modulo using this.slides.length
+ * A simple positive modulo using this.slides.length
  *
  * @param {number} index
  * @return {number}
