@@ -2,7 +2,7 @@
 
 ## Usage
 ```js
-const BasicGallery = require('./basicgallery');
+const BasicGallery = require('csc-adv-int-basic-gallery');
 
 document.addEventListener('DOMContentLoaded', () => {
   const base = document.getElementsByClassName('gallery')[0];

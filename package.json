@@ -1,5 +1,5 @@
 {
-  "name": "csc-515-basic-gallery",
+  "name": "csc-adv-int-basic-gallery",
   "version": "1.0.0",
   "description": "Basic touch enabled image slider",
   "main": "index.js",
