@@ -1,0 +1,9 @@
+{
+  "name": "csc-515-basic-gallery",
+  "version": "1.0.0",
+  "description": "Basic touch enabled image slider",
+  "main": "index.js",
+  "repository": "git@github.com:ChadKillingsworth/csc-515-basic-gallery.git",
+  "author": "Chad Killingsworth <chadkillingsworth@missouristate.edu>",
+  "license": "Apache-2"
+}
